@@ -26,6 +26,7 @@ WUF-C1 Ultrasonic flowmeter man-machine interface.
 
       单位可选 m3、L
   * 1.8显示内容相对位置
+  ```
   ---------------------------------------------
 
   |1.1    |                |1.2               |
@@ -51,5 +52,5 @@ WUF-C1 Ultrasonic flowmeter man-machine interface.
   |       |1.7                                |
 
   ---------------------------------------------
-
+```
 ## **2第二界面显示内容**
