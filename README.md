@@ -2,6 +2,7 @@
 WUF-C1 Ultrasonic flowmeter man-machine interface.
 
 ## **参考**
+本文所涉及的示意图、符号等，均可以《TUF-C1型插入式超声流量计使用说明书(Version 1.04)20200615183717》作为首要参考。
 
 ## **目录**
   * [1主界面显示内容](#1主界面显示内容)
