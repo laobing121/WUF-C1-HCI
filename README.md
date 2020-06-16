@@ -246,7 +246,7 @@ WUF-C1 Ultrasonic flowmeter man-machine interface.
 
       设置范围：0.000 ~ 20.000
 
-    4.6.3分段修正系数
+    4.6.3分段修正系数（9组）
 
       设置范围：0.0001 ~ 3.0000
   * 4.7反向分段修正
@@ -259,7 +259,7 @@ WUF-C1 Ultrasonic flowmeter man-machine interface.
 
       设置范围：0.000 ~ 20.000
 
-    4.7.3分段修正系数
+    4.7.3分段修正系数（9组）
 
       设置范围：0.0001 ~ 3.0000
   * 4.8零流量设置
